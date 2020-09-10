@@ -16,7 +16,7 @@ export const applyRouteParams = (path, params) => {
 };
 
 const ROUTES = {
-    ROOT: `/${BASE_URL}`,
+    ROOT: `${BASE_URL}`,
     LOGIN: buildRoute(LOGIN),
     SAMPLE: buildRoute(SAMPLE),
 }
