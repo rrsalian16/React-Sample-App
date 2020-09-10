@@ -2,7 +2,7 @@
   "name": "demo-virgil-security",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rrsalian16.github.io/",
+  "homepage": "https://rrsalian16.github.io/React-Sample-App",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
